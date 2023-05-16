@@ -352,7 +352,7 @@ function Subscribes({ statusAll, subscribesDone }) {
       {/* FOURTH BLOCK with 2 options
       FIRST */}
       <div
-        className={`mx-auto w-[343px] h-[272px] rounded-xl bg-white ${
+        className={`mx-auto w-[343px] h-[252px] rounded-xl bg-white ${
           subscribe[3] ? "shadow-lg" : ""
         } xl:w-[476px] xl:h-[244px]`}
       >
